@@ -32,7 +32,4 @@ describe("Bushel 44", function() {
         done();
       });
   });
-  // it("should throw an error for fun", function() {
-  //   throw new Error("Failed on purpose, just to make the Mocha output more interesting.");
-  // });
 });
